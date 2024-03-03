@@ -1,8 +1,6 @@
 # Reference-Formatter 🌟
 [ ] to citekey, effortlessly transforms your Word document citations into LaTeX-compatible \cite{key} references, streamlining the transition from Word to LaTeX.
 
-RefTexConverter is a tool designed to seamlessly convert Word document citations into LaTeX-compatible \cite{key} references. Ideal for researchers and academics looking to transition from Word to LaTeX without the hassle of manually updating citations. 
-
 ## How to Use Reference-Formatter 📘
 
 Follow these easy steps to transform your citations:
