@@ -1,20 +1,18 @@
-# Reference-Formatter
+# Reference-Formatter 🌟
 [ ] to citekey, effortlessly transforms your Word document citations into LaTeX-compatible \cite{key} references, streamlining the transition from Word to LaTeX.
 
-# RefTexConverter: Your Gateway to Effortless Citation Transformation 🌟
+RefTexConverter is a tool designed to seamlessly convert Word document citations into LaTeX-compatible \cite{key} references. Ideal for researchers and academics looking to transition from Word to LaTeX without the hassle of manually updating citations. 
 
-RefTexConverter is a user-friendly tool designed to seamlessly convert Word document citations into LaTeX-compatible \cite{key} references. Ideal for researchers and academics looking to transition from Word to LaTeX without the hassle of manually updating citations. 
-
-## How to Use RefTexConverter 📘
+## How to Use Reference-Formatter 📘
 
 Follow these easy steps to transform your citations:
 
 1. **Prepare Your Documents** 📄
    - **Document 1 (Word)**: Your main text with references like `[1]`, `[1, 2]`. 
-   - **Document 2 (Word)**: Your reference list, e.g., `[1] paper title`. 
+   - **Document 2 (Word)**: Your reference list, e.g., `[1] paper title`,`[1] contain paper title`. 
    - **BibTeX File**: The `.bib` file with all your references in BibTeX format.
 
-2. **Launch RefTexConverter** 🚀
+2. **Launch Reference-Formatter** 🚀
    - Open the tool and you'll see a simple, intuitive interface.
 
 3. **Load Your Files** 📂
@@ -30,11 +28,11 @@ Follow these easy steps to transform your citations:
    - Choose where to save your updated document, which is now ready for LaTeX.
 
 6. **Check for Missing References** ⚠️
-   - RefTexConverter will notify you if any references in Document 1 are not found in Document 2 or the `.bib` file. A `missing_references.txt` file will be created for your review.
+   - Reference-Formatter will notify you if any references in Document 1 are not found in Document 2 or the `.bib` file. A `missing_references.txt` file will be created for your review.
 
 7. **Final Review** 👀
    - It's always good practice to give your document a final check to ensure all references are correctly converted and formatted.
 
 ## 🌈 Enjoy a Smoother Transition to LaTeX!
 
-With RefTexConverter, you can focus more on your content and less on the tedious task of reference formatting. Happy writing! 🎉
+With Reference-Formatter, you can focus more on your content and less on the tedious task of reference formatting. Happy writing! 🎉
